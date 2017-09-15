@@ -14,6 +14,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        //added exernally to resolve APP HAS STOPEED WORKING ERROR
         <activity android:name=".ShowImagesActivity"/>
     </application>
 </manifest>
