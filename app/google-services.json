@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "668124991211",
+    "firebase_url": "https://fir-chat-2a1fe.firebaseio.com",
+    "project_id": "fir-chat-2a1fe",
+    "storage_bucket": "fir-chat-2a1fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668124991211:android:945106f5706c2615",
+        "android_client_info": {
+          "package_name": "com.firebasepractice.nandu.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668124991211-95lljk4mhioevmig79afe2rqrbtqc3cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUXU_z2zt0APmZxoqjKGGcNwdsIvd8Jjw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668124991211:android:50feb62d5eb20da1",
+        "android_client_info": {
+          "package_name": "com.firebasepractice.nandu.chatmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668124991211-pgav9u31jqlbh1vkth6do363cmd84ded.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebasepractice.nandu.chatmessage",
+            "certificate_hash": "8f491b893f9af512482d0cfb9571e8e8850c7e83"
+          }
+        },
+        {
+          "client_id": "668124991211-95lljk4mhioevmig79afe2rqrbtqc3cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUXU_z2zt0APmZxoqjKGGcNwdsIvd8Jjw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668124991211-95lljk4mhioevmig79afe2rqrbtqc3cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668124991211:android:5c2ab42b8248897f",
+        "android_client_info": {
+          "package_name": "com.firebasepractice.nandu.firebaseupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668124991211-b3ttmb9bse9bsk0df279pq8nrr6o5kq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebasepractice.nandu.firebaseupload",
+            "certificate_hash": "8f491b893f9af512482d0cfb9571e8e8850c7e83"
+          }
+        },
+        {
+          "client_id": "668124991211-95lljk4mhioevmig79afe2rqrbtqc3cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUXU_z2zt0APmZxoqjKGGcNwdsIvd8Jjw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668124991211-95lljk4mhioevmig79afe2rqrbtqc3cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
